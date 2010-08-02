@@ -1,0 +1,85 @@
+
+#head{
+	width: 620px;
+	align:center;
+	margin:0 auto;
+}
+
+#main{
+	width: 620px;
+	align:center;
+	margin:0 auto;
+}
+
+textarea.textform{
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+input.textform{
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+input#id_nickname{
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+input.btn{
+	color: #900;
+	border: 1px solid #900;
+	font-weight: bold;
+}
+
+a.btn:link {
+	color: #900;
+	border: 1px solid #900;
+	font-weight: bold;
+	text-decoration: none; 
+	background-color: #DDDDDD;
+}
+a.btn:visited {
+	color: #900;
+	border: 1px solid #900;
+	font-weight: bold;
+	text-decoration: none; 
+	background-color: #DDDDDD;
+}
+a.btn:hover {
+	color: #900;
+	border: 1px solid #900;
+	font-weight: bold;
+	text-decoration: none; 
+	background-color: #DDDDDD;
+}
+a.btn:active {
+	color: #900;
+	border: 1px solid #900;
+	font-weight: bold;
+	text-decoration: none; 
+	background-color: #DDDDDD;
+} 
+
+p.error{
+	color: #ff0000;
+}
+
+div.entry{
+	color:#000; 
+	font: bold 84% 'trebuchet ms',helvetica,sans-serif; 
+	background-color:#DDDDDD; 
+	border:1px solid; 
+	border-color: #696 #363 #363 #696;
+	padding: 2px 2px 2px 2px;
+	margin: 0 0 10px 0;
+}
